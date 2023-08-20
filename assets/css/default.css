@@ -1,0 +1,21 @@
+.pt-70 {
+    padding-top: 70px;
+}
+.pb-70 {
+    padding-bottom: 70px;
+}
+.pt-40 {
+    padding-top: 40px;
+}
+.pb-40 {
+    padding-bottom: 40px;
+}
+
+/* color css start  */
+.bg-gray {
+    background: #ddd;
+}
+.bg-stay {
+    background: #f5ecec;
+}
+/* color css end  */
